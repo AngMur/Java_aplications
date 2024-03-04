@@ -15,6 +15,9 @@ https://youtu.be/Sz0dDCULQyU
 
 ![cronometro](Capturas/cronometro.JPG)
 
+Video de prueba:
+https://youtu.be/U4o17_22WMY
+
 ## Proyecto 3 Basic Drawing Panel Java 
 
  Usamos JavaSwing crear un pequeño panel de dibujo con java swing y mediante eventos controlamos el grosor, color o modo borrar.
