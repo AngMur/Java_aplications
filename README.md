@@ -27,3 +27,13 @@ https://youtu.be/U4o17_22WMY
 Video de prueba:
 https://youtu.be/Ohdgwo4Cptw
 
+
+## Proyecto 4 Galeria de imagenes 
+
+ Usamos JavaSwing para hacer un panel que puede cambiar de imagen
+
+![galeria](Capturas/galeria.jpg)
+
+Video de prueba:
+https://youtu.be/D2WeljNc3Gs
+
