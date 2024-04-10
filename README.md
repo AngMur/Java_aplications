@@ -37,16 +37,16 @@ https://youtu.be/Ohdgwo4Cptw
 Video de prueba:
 https://youtu.be/D2WeljNc3Gs
 
-## Proyecto 4 Peluqueria de perros
+## Proyecto 5 Peluqueria de perros
 
  Creamos una peluqueria de perros con el enfoque orientado a objetos.
 
 
-## Proyecto 5 Capitales de México
+## Proyecto 6 Capitales de México
 
  Usamos JavaSwing para hacer un pequeño script que muestre la capital de un estado de la republica al ser seleccionado.
 
-![capitales](Capturas/capiales.jpg)
+![capitales](Capturas/capitales.jpg)
 
 Video de prueba:
 https://youtu.be/zTSI2weljPA
